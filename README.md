@@ -1,5 +1,8 @@
 # Gene-Search
 
+## 功能描述
+* 根据data.xlsx中的ID对空项进行自动查询，并填充空项，将最终结果写入result.xlsx
+
 ## 环境配置
 * 安装Anaconda3
 * 安装VSCode（可选）
